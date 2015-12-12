@@ -14,8 +14,8 @@ Some of the files are part of the Vindinium starte kit. Only some I use.
 All of the files to run my bot and the Bot itself are located in the simple folder. 
 * AStar.java 
 * Dijkstra.java 
-* GameGraph.java 
-* GameGraph2.java - This is somewhat similar to the AdvanceGameState.java file 
+* GameGraph.java - this creats a graph and stores it in a 2D array. Not used since it gives me problems. GameGraph2.java is used instead.
+* GameGraph2.java - This is somewhat similar to the AdvanceGameState.java file with my own modification for getting neighbor's.
 * Mine.java - This is based on the Mine class from the Advanced Mine class 
 * MyBot2.java 
 * Pub.java - This is based on the Pub class from the Advanced pub class 
