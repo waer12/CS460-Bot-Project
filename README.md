@@ -8,7 +8,7 @@ Website: http://vindinium.org/
 
 
 ### Files
-Some of the files are part of the Vindinium starte kit. Only some I use.
+Some of the files are part of the Vindinium starter kit. Only some of it I use.
 
 ### MY Files
 All of the files to run my bot and the Bot itself are located in the simple folder. 
